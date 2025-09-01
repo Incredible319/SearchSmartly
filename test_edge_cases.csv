@@ -1,0 +1,5 @@
+poi_id,poi_name,poi_latitude,poi_longitude,poi_category,poi_ratings
+POI012,Test Location 1,40.0000,-74.0000,Test,"5.0"
+POI013,Test Location 2,40.1000,-74.1000,Test,"4.5,4.0,5.0"
+POI014,Test Location 3,40.2000,-74.2000,Test,""
+

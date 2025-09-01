@@ -1,0 +1,35 @@
+[
+  {
+    "id": "POI006",
+    "name": "Brooklyn Bridge",
+    "coordinates": {
+      "latitude": 40.7061,
+      "longitude": -73.9969
+    },
+    "category": "Bridge",
+    "ratings": [4.6, 4.8, 4.5, 4.7, 4.4],
+    "description": "Historic suspension bridge connecting Manhattan and Brooklyn"
+  },
+  {
+    "id": "POI007",
+    "name": "High Line",
+    "coordinates": {
+      "latitude": 40.7480,
+      "longitude": -74.0048
+    },
+    "category": "Park",
+    "ratings": [4.7, 4.9, 4.6, 4.8, 4.5],
+    "description": "Elevated linear park built on a former freight rail line"
+  },
+  {
+    "id": "POI008",
+    "name": "One World Trade Center",
+    "coordinates": {
+      "latitude": 40.7127,
+      "longitude": -74.0134
+    },
+    "category": "Landmark",
+    "ratings": [4.8, 4.9, 4.7, 4.6, 4.8],
+    "description": "Main building of the rebuilt World Trade Center complex"
+  }
+]

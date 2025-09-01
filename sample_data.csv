@@ -1,0 +1,6 @@
+poi_id,poi_name,poi_latitude,poi_longitude,poi_category,poi_ratings
+POI001,Central Park,40.7829,-73.9654,Park,"4.5,4.2,4.8,4.1,4.6"
+POI002,Empire State Building,40.7484,-73.9857,Landmark,"4.7,4.9,4.6,4.8,4.5"
+POI003,Statue of Liberty,40.6892,-74.0445,Monument,"4.8,4.9,4.7,4.6,4.8"
+POI004,Metropolitan Museum,40.7794,-73.9632,Museum,"4.6,4.4,4.7,4.5,4.3"
+POI005,Times Square,40.7580,-73.9855,Entertainment,"4.3,4.1,4.4,4.2,4.0"

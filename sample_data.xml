@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pois>
+  <poi>
+    <pid>POI009</pid>
+    <pname>Rockefeller Center</pname>
+    <platitude>40.7587</platitude>
+    <plongitude>-73.9787</plongitude>
+    <pcategory>Entertainment</pcategory>
+    <pratings>4.5,4.3,4.6,4.4,4.2</pratings>
+  </poi>
+  <poi>
+    <pid>POI010</pid>
+    <pname>Grand Central Terminal</pname>
+    <platitude>40.7527</platitude>
+    <plongitude>-73.9772</plongitude>
+    <pcategory>Transportation</pcategory>
+    <pratings>4.7,4.8,4.6,4.9,4.5</pratings>
+  </poi>
+  <poi>
+    <pid>POI011</pid>
+    <pname>American Museum of Natural History</pname>
+    <platitude>40.7813</platitude>
+    <plongitude>-73.9740</plongitude>
+    <pcategory>Museum</pcategory>
+    <pratings>4.6,4.8,4.5,4.7,4.4</pratings>
+  </poi>
+</pois>
